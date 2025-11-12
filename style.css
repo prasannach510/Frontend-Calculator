@@ -1,0 +1,43 @@
+.button{
+    width:39px;
+    height:30px;
+    text-align: center;
+    border-radius:5px;
+    border: none;
+    font-weight:bold;
+    font-size:14px;
+}
+#clear{
+    width:130px;
+    height:30px;
+    border-radius:5px;
+    border: none;
+    font-weight:bold;
+    font-size:14px;
+}
+#div2,#div3,#div4,#div5,#div6,#div1{
+    width:180px;
+    height:35px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+#text{
+    width:170px;
+    height: 27px;
+    border-radius:5px;
+    border: none;
+    
+}
+#container{
+  margin-left:630px;
+  margin-top: 230px;
+  width:200px;
+  height:250px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(147, 179, 238);
+  border-radius:10px;
+  box-shadow: 1px 1px 10px gainsboro ,-1px 1px 10px gainsboro,1px -1px 10px gainsboro,-1px -1px 10px gainsboro;
+}
